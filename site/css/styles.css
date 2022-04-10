@@ -40,8 +40,9 @@ body {
 {
     margin-top: -200px;
     position:absolute;
-    height:50px;
-    width: 1520px;
+    min-height:100%;
+    min-width: 100%;
+
 }
 
 #back
