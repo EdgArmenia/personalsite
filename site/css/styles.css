@@ -126,3 +126,39 @@ body {
 {
     text-align: center;
 }
+
+#egor
+{
+    background: url('../images/egor.png');
+    width: 900px;
+}
+
+#elya
+{
+    background: url('../images/elya.png');
+    width: 900px;
+}
+
+#dima
+{
+    background: url('../images/dima.png');
+    width:900px;
+}
+
+#nastya
+{
+    background: url('../images/nastya.png');
+    width:900px;
+}
+
+#alina
+{
+    background: url('../images/alina.png');
+    width:900px;
+}
+
+#edgar
+{
+    background: url('../images/edgar.png');
+    width:900px;
+}
