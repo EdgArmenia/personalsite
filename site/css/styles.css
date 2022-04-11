@@ -116,8 +116,13 @@ body {
 
 .congr
 {
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
     font-style: italic;
     text-align: justify;
+}
+
+#Dima
+{
+    text-align: center;
 }
